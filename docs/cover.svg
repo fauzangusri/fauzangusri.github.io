@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Fauzan Gusri — Portfolio</title>
+  <desc id="desc">Presales, Network Engineering, and AIoT. Engineering ideas. Creating impact.</desc>
+  <rect width="1200" height="360" rx="16" fill="#142b43"/>
+  <path d="M890 0v360M1010 0v360M1130 0v360M830 90h370M830 210h370M830 330h370" stroke="#29445b" fill="none"/>
+  <circle cx="1010" cy="90" r="58" fill="none" stroke="#c6ef76" stroke-width="2"/>
+  <circle cx="1130" cy="210" r="58" fill="none" stroke="#c6ef76" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M1010 148v62h62" stroke="#c6ef76" stroke-width="2" fill="none"/>
+  <circle cx="1010" cy="210" r="6" fill="#c6ef76"/>
+  <text x="62" y="70" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#c6ef76">PRESALES / NETWORK ENGINEERING / AIoT</text>
+  <text x="58" y="169" font-family="Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-3" fill="#f7f7f2">Fauzan Gusri<tspan fill="#c6ef76">.</tspan></text>
+  <text x="62" y="225" font-family="Georgia,serif" font-style="italic" font-size="30" fill="#f7f7f2">Engineering ideas. Creating impact.</text>
+  <path d="M62 265h690" stroke="#435568"/>
+  <text x="62" y="307" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" fill="#b9c6d1">PORTFOLIO</text>
+  <text x="752" y="307" text-anchor="end" font-family="Arial,sans-serif" font-size="12" fill="#b9c6d1">HTML · CSS · JAVASCRIPT</text>
+</svg>
